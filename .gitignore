@@ -1,0 +1,11 @@
+# This sets the `.gitignore` to be a *whitelist* by default.
+**/**
+!*/
+
+
+#Whitelist
+!README.md
+!LICENSE
+!.gitignore
+
+# Blacklist (overrides Whitelist)
